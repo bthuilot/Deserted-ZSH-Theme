@@ -13,7 +13,7 @@ A great theme for people who want to keep it simple
 
 ## Installation
 
-Download the [zsh-theme](https:raw.githubusercontent.com/bthuilot/deserted-zsh-theme/master/deserted.zsh-theme) the then move it to 
+Download the [zsh-theme](https://raw.githubusercontent.com/bthuilot/deserted-zsh-theme/master/deserted.zsh-theme) the then move it to 
 ```
 $ZSH/custom/themes
 ```
