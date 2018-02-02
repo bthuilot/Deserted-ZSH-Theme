@@ -3,7 +3,7 @@
 # See if user is root
 if [[ "$USER" == "root" ]]; then ROOTPREFIX="⚡️ "; else ROOTPREFIX="" ; fi
 
-local PROMPT_ARROW="%(?,%{$fg_bold[green]%}~>,%{$fg_bold[red]%}~>)"
+local PROMPT_ARROW="%(?,%{$fg_bold[yellow]%}~>,%{$fg_bold[red]%}~>)"
 # Get prefix
 local USERPREFIX="🌵 "
 
