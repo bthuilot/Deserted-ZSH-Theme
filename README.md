@@ -8,7 +8,7 @@ A great theme for people who want to keep it simple
 :cactus: :cactus: :cactus:
 
 
-![Screen Shot](https://github.com/bthuilot/deserted-zsh-theme/ "Looks Amazing!")
+![Screen Shot](https://raw.githubusercontent.com/bthuilot/Deserted-ZSH-Theme/master/ScreenShot.png "Looks Amazing!")
 
 
 ## Installation
@@ -21,7 +21,7 @@ $ZSH/custom/themes
 and then add the following line to your .zshrc
 
 ```
-$ZSH_THEME="deserted"
+ZSH_THEME="deserted"
 ```
 
 
