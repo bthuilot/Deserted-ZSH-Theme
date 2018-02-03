@@ -13,9 +13,11 @@ A great theme for people who want to keep it simple
 
 ## Installation
 
-Download the [zsh-theme](https://raw.githubusercontent.com/bthuilot/deserted-zsh-theme/master/deserted.zsh-theme) the then move it to 
+Download the [zsh-theme](https://raw.githubusercontent.com/bthuilot/deserted-zsh-theme/master/deserted.zsh-theme) the then move it to the custom themes folder
+This can be done by running the folowing command
+
 ```
-$ZSH/custom/themes
+wget -o $ZSH/custom/theme https://raw.githubusercontent.com/bthuilot/Deserted-ZSH-Theme/master/deserted.zsh-theme
 ```
 
 and then add the following line to your .zshrc
